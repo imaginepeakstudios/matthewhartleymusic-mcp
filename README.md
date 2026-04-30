@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://experience.matthewhartleymusic.com/matthew-hartley-powered-by-harmonic-wave.jpg" alt="Matthew Hartley — The Time Is Now: A Journey in Chapters · Powered by Harmonic Wave" width="100%" />
+  <img src="https://experience.matthewhartleymusic.com/the-time-is-now-ai-music-experience-matthew-hartley.jpg" alt="Matthew Hartley — The Time Is Now: A Journey in Chapters · Powered by Harmonic Wave" width="100%" />
 </p>
 
 # Matthew Hartley Music — MCP Server
